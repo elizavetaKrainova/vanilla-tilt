@@ -1,0 +1,14 @@
+body {
+  background-color: #183e4b;
+}
+
+.rectangle {
+  border: 3px dashed #d74a49;
+  border-radius: 20px;
+  padding: 20px;
+  background-color: transparent;
+}
+
+.rectangle__details {
+  color: #eaeaea;
+}
